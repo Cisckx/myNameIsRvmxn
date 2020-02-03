@@ -1,6 +1,6 @@
 # myNameIsRvmxn
 teste GitHub
-##patate
+##sushi
 -jaime
 -les
 -patate
