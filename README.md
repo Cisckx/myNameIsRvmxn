@@ -3,4 +3,4 @@ teste GitHub
 ##sushi
 -jaime
 -les
--patate
+-sushi
